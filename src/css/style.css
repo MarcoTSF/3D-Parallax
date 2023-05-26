@@ -112,10 +112,18 @@ main {
 
 .bg-img {
     position: absolute;
-    width: 2800px;
-    top: calc(50% - 390px);
-    left: calc(50% + 10px);
+    width: 195%;
+    top: 2%;
+    left: 51%;
     z-index: 1;
+}
+
+.fog-7 {
+    position: absolute;
+    z-index: 2;
+    top: 37.7%;
+    left: calc(50% + 300px);
+    width: 132%;
 }
 
 .fog-1 {
